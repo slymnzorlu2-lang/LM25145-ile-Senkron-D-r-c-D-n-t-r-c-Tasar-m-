@@ -1,0 +1,7 @@
+Added Component: Designator=J2(Klemens)
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J1-2
+Added Pin To Net: NetName=VOUT Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-2
+Add Class Member: Failed to add class member : Component J1 Klemens
+Added Member To Class: ClassName=Sheet1 Member=Component J2 Klemens

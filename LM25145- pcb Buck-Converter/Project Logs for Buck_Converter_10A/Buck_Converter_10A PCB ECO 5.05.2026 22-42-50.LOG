@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=C2-2
+Removed Pin From Net: NetName=GND Pin=C4-2
+Removed Pin From Net: NetName=GND Pin=C8-2
+Removed Pin From Net: NetName=GATE_M1 Pin=J1-2
+Removed Pin From Net: NetName=GND Pin=R3-1
+Removed Pin From Net: NetName=GND Pin=R5-2
+Removed Pin From Net: NetName=GND Pin=U1-6
+Change Component Comment : Designator=C2 Old Comment=0402 CAP 1.2 nF New Comment=0402 1.2 nF
+Added Component: Designator=RJ1(SHORT10_8MIL-FP)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=RJ1-1
+Change Net Name : Old Net Name=GND New Net Name=PGND
+Added Pin To Net: NetName=AGND Pin=C1-2
+Added Pin To Net: NetName=AGND Pin=C2-2
+Added Pin To Net: NetName=AGND Pin=C4-2
+Added Pin To Net: NetName=AGND Pin=C8-2
+Added Pin To Net: NetName=AGND Pin=R3-1
+Added Pin To Net: NetName=AGND Pin=R5-2
+Added Pin To Net: NetName=AGND Pin=RJ1-2
+Added Pin To Net: NetName=AGND Pin=U1-6
+Added Net: Name=AGND
+Added Member To Class: ClassName=Sheet1 Member=Component L1 bobin
+Added Member To Class: ClassName=Sheet1 Member=Component RJ1 Net Tie 0.6x1.4mm
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2

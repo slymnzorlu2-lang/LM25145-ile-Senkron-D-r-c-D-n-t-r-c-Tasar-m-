@@ -1,0 +1,100 @@
+Added Component: Designator=C1(RESC1005X06N)
+Added Component: Designator=C2(RESC1005X06N)
+Added Component: Designator=C3(RESC1005X06N)
+Added Component: Designator=C4(RESC1005X06N)
+Added Component: Designator=C5(RESC1608X06N)
+Added Component: Designator=C6(RESC1608X06N)
+Added Component: Designator=C7(RESC1608X06N)
+Added Component: Designator=C8(1206 (Orta Boy Seramik))
+Added Component: Designator=C9(1210 (En Büyük Seramik))
+Added Component: Designator=C10(1210 (En Büyük Seramik))
+Added Component: Designator=L1(INDM150150X100N)
+Added Component: Designator=M1(MOSFET+)
+Added Component: Designator=M2(MOSFET+)
+Added Component: Designator=R1(RESC1608X06N)
+Added Component: Designator=R2(RESC1608X06N)
+Added Component: Designator=R3(RESC1608X06N)
+Added Component: Designator=R4(RESC1608X06N)
+Added Component: Designator=R5(RESC1608X06N)
+Added Component: Designator=R6(RESC1608X06N)
+Added Component: Designator=R7(RESC1608X06N)
+Added Component: Designator=R8(RESC1608X06N)
+Added Component: Designator=R9(RESC1608X06N)
+Added Component: Designator=R10(RESC1608X06N)
+Add component: Footprint Not Found PQFN50P350X450X100_HS-21N-
+Added Pin To Net: NetName=GATE_M1 Pin=M1-4
+Added Net: Name=GATE_M1
+Added Pin To Net: NetName=GATE_M2 Pin=M2-4
+Added Net: Name=GATE_M2
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=GND Pin=M2-1
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R5-2
+Added Pin To Net: NetName=GND Pin=R10-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=R1-2
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=C3-2
+Added Pin To Net: NetName=NetC2_1 Pin=R1-1
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=R2-2
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Net: Name=NetC4_1
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Net: Name=NetC5_1
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=NetC6_1 Pin=R4-1
+Added Net: Name=NetC6_1
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC7_2 Pin=R7-1
+Added Net: Name=NetC7_2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=R3-2
+Added Pin To Net: NetName=NetR2_1 Pin=R8-1
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Net: Name=NetR5_1
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=R10-2
+Added Net: Name=NetR6_1
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Net: Name=NetR9_1
+Added Pin To Net: NetName=SW Pin=C5-2
+Added Pin To Net: NetName=SW Pin=L1-1
+Added Pin To Net: NetName=SW Pin=M1-1
+Added Pin To Net: NetName=SW Pin=M2-5
+Added Pin To Net: NetName=SW Pin=M2-5
+Added Pin To Net: NetName=SW Pin=M2-5
+Added Pin To Net: NetName=SW Pin=M2-5
+Added Pin To Net: NetName=SW Pin=M2-5
+Added Pin To Net: NetName=SW Pin=R4-2
+Added Net: Name=SW
+Added Pin To Net: NetName=VCC Pin=C8-1
+Added Pin To Net: NetName=VCC Pin=R9-2
+Added Net: Name=VCC
+Added Pin To Net: NetName=VIN Pin=C9-1
+Added Pin To Net: NetName=VIN Pin=M1-5
+Added Pin To Net: NetName=VIN Pin=M1-5
+Added Pin To Net: NetName=VIN Pin=M1-5
+Added Pin To Net: NetName=VIN Pin=M1-5
+Added Pin To Net: NetName=VIN Pin=M1-5
+Added Pin To Net: NetName=VIN Pin=R6-2
+Added Pin To Net: NetName=VIN Pin=R7-2
+Added Net: Name=VIN
+Added Pin To Net: NetName=VOUT Pin=C10-1
+Added Pin To Net: NetName=VOUT Pin=L1-2
+Added Pin To Net: NetName=VOUT Pin=R8-2
+Added Net: Name=VOUT
+Added Class: Name=Sheet1
+Added Rule: Name=Schematic Supply Nets

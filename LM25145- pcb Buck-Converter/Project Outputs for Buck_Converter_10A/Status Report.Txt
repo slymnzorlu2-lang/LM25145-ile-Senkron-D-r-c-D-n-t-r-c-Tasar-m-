@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Buck_Converter_10A.PrjPcb]
+   Generated File[Buck_Converter_10A.TXT]
+   Generated File[Buck_Converter_10A.LDP]
+   Generated File[Buck_Converter_10A.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 13:04:02 On 14.05.2026

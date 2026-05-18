@@ -1,0 +1,24 @@
+Added Component: Designator=U1(PQFN50P350X450X100_HS-21N)
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J1-2
+Add Pin To Net: Unknown Pin: Pin J2-1
+Add Pin To Net: Unknown Pin: Pin J2-2
+Added Pin To Net: NetName=NetR6_1 Pin=U1-1
+Added Pin To Net: NetName=NetR5_1 Pin=U1-2
+Added Pin To Net: NetName=NetC4_1 Pin=U1-3
+Added Pin To Net: NetName=NetC2_1 Pin=U1-4
+Added Pin To Net: NetName=NetR2_1 Pin=U1-5
+Added Pin To Net: NetName=GND Pin=U1-6
+Added Pin To Net: NetName=NetR9_1 Pin=U1-10
+Added Pin To Net: NetName=NetC6_1 Pin=U1-11
+Added Pin To Net: NetName=GND Pin=U1-12
+Added Pin To Net: NetName=GATE_M2 Pin=U1-13
+Added Pin To Net: NetName=VCC Pin=U1-14
+Added Pin To Net: NetName=GND Pin=U1-15
+Added Pin To Net: NetName=NetC5_1 Pin=U1-17
+Added Pin To Net: NetName=GATE_M1 Pin=U1-18
+Added Pin To Net: NetName=SW Pin=U1-19
+Added Pin To Net: NetName=NetC7_2 Pin=U1-20
+Add Class Member: Failed to add class member : Component J1 Klemens
+Add Class Member: Failed to add class member : Component J2 Klemens
+Added Member To Class: ClassName=Sheet1 Member=Component U1 LM25145RGYR

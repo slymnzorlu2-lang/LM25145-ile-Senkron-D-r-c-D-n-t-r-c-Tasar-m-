@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=RJ1 Old Footprint=SHORT10_8MIL-FP New Footprint=New footprint 1
+Change Component Comment : Designator=RJ1 Old Comment=Net Tie 0.6x1.4mm New Comment=Net Tie 10x8mil
+Change Managed Component Library Link : Designator=RJ1 Old VaultGUID=6E2534D4-33CC-4F9E-B111-46B8B963FED5 New VaultGUID=6E2534D4-33CC-4F9E-B111-46B8B963FED5 Old ItemGUID=0975879A-1786-4757-A242-5256500DC784 New ItemGUID=F84008C7-4471-4407-9ED8-40C01BAFD021 Old RevisionGUID=A040C8EF-F8C3-480E-85F6-53F83A7ACF51 New RevisionGUID=7ACCEC80-BAA5-4633-8208-EF4E51864893
